@@ -9,12 +9,11 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="@color/bkgndColour"
-    tools:context="com.londonappbrewery.bitcointicker.MainActivity">
+    tools:context="com.mshoaibluqman.bitcointicker.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/label_default_text"
         android:id="@+id/priceLabel"
         android:textSize="45sp"
         android:textStyle="bold"
